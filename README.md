@@ -9,4 +9,4 @@ This repository consists of various approaches of house price prediction analysi
 * Ridge regression is then implemented on the data.
 * r square value obtained after linear regression = 0.712
 * r square value obtained after ridge regression = 0.7564
-* Inference : Ridge regression improved the accuracy of the model than obtained after linear regression!
+* Inference : Ridge regression improved the accuracy of the model than the one obtained after linear regression!
